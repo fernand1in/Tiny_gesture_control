@@ -19,8 +19,6 @@
 | pyautogui | 0.9.54 | 键鼠模拟操作 |
 | numpy | 1.24.3 | 数值计算支持 |
 
-<img width="300" height="450" alt="d28a9cc0dbe19b79a34c15d959ca556a" src="https://github.com/user-attachments/assets/984282ef-59a9-4ea9-9494-c389a21a5ad5" />
-
 ## 🚀 快速开始
 
 ### 1. 克隆项目
