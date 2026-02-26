@@ -1,7 +1,6 @@
 # 🖐️ tiny gesture control
 一款轻量级的手势识别控制工具，基于 mediapipe + pyqt6 开发，无需手动键鼠操作，通过手势即可操控电脑 🚀
 
-<img width="300" height="450" alt="d28a9cc0dbe19b79a34c15d959ca556a" src="https://github.com/user-attachments/assets/8cea198d-feb7-4f73-8eea-92c7204657cb" />
 ## 📋 功能特性
 - ✨ 多手势识别：支持点赞、拇指向下、ok、手指交叉、数字1等手势识别
 - 🎵 媒体控制：上一首/下一首/播放暂停/音量调节/快进/快退
@@ -19,6 +18,8 @@
 | opencv-python | 4.8.1.78 | 摄像头采集与图像处理 |
 | pyautogui | 0.9.54 | 键鼠模拟操作 |
 | numpy | 1.24.3 | 数值计算支持 |
+
+<img width="300" height="450" alt="d28a9cc0dbe19b79a34c15d959ca556a" src="https://github.com/user-attachments/assets/984282ef-59a9-4ea9-9494-c389a21a5ad5" />
 
 ## 🚀 快速开始
 
